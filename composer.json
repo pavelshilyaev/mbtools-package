@@ -1,0 +1,16 @@
+{
+    "name": "pshilyaev/mbtools-package",
+    "description": "Simple tools for mb string",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Pshilyaev\\MbtoolsPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pavel Shilyaev"
+        }
+    ],
+    "require": {}
+}
