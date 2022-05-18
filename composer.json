@@ -12,5 +12,7 @@
             "name": "Pavel Shilyaev"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.0"
+    }
 }
