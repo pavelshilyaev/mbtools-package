@@ -9,7 +9,7 @@ php > 7.0
 ## Устнановка
 
 ```bash
-composer require pshilyaev/mbtools
+composer require pshilyaev/mbtools-package
 ```
 
 ## Использование
